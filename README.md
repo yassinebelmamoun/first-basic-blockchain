@@ -13,7 +13,9 @@ This is a tentative of implementation of a basic blockchain using Python 3.
 
 ### Methods
 - `new_block`: Method to add each block to the chain
-
+- `new_transaction`: Method to add a transaction to the list of pending transactions
+- `hash`: Method to generate a hash from a block
+- `last_block`: Method property to get the last block of the chain
 
 # Missing elements
 
