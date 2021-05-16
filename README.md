@@ -1,6 +1,6 @@
 # Introduction
 
-This is a tentative of implementation of a basic blockchain using Python. The objective is to support an introduction of the elementary component of a blockchain to a beginner.
+This is a tentative of implementation of a basic blockchain using Python. The objective is to support an introduction of the elementary components and concepts of a blockchain to a beginner.
 
 # Source code explained
 
