@@ -1,10 +1,14 @@
 # Introduction
 
-This is a tentative of implementation of a basic blockchain using Python 3.
+This is a tentative of implementation of a basic blockchain using Python. The objective is to support an introduction of the elementary component of a blockchain to a beginner.
 
 # Source code explained
 
-## the `Blockchain` class
+## `Blockchain` class
+
+The Blockchain is a chain of blocks. Each blocks is represented by several attributes include the list of transaction, a timestamp, a proof and the previous hash of the previous block.
+
+Each block's hash will be generated based on the previous block's hash.
 
 ### Variables:
 
